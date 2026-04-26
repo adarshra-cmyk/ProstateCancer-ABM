@@ -23,3 +23,15 @@ custom_modules/*.d
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+*_summary.csv
+*pvalue*.csv
+*.tar.gz
+*-backup*
+biorobots/
+examples/
+matlab/
+documentation-deprecated/
+beta/
+all_configs/
+*.zip
+job_details.dat
