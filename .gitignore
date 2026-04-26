@@ -1,0 +1,25 @@
+# Simulation outputs
+output_*/
+logs/
+figures/
+csv_exports/
+
+# Compiled binary
+project
+
+# PhysiCell build artifacts
+*.o
+*.d
+BioFVM/*.o
+BioFVM/*.d
+core/*.o
+core/*.d
+modules/*.o
+modules/*.d
+custom_modules/*.o
+custom_modules/*.d
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
